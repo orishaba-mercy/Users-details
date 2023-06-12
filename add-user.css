@@ -1,0 +1,24 @@
+.form{
+    margin: 0 auto;
+    /* border: solid green; */
+    width: 50%;
+    text-align: center;
+}
+.form >input{
+    padding: 6px 20px;
+    width: 50%;
+    border-radius: 5%;
+    outline: none;
+    border: solid rgb(133, 121, 121) 1px;
+    font-size: 18px;
+
+}
+.form >button{
+    border: none;
+    outline: none;
+    padding: 12px 16px;
+    background-color: #124acc;
+    color: #ffff;
+    border-radius: 5px;
+    cursor: pointer;
+}
